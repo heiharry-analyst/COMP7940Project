@@ -19,10 +19,11 @@ But technically, there are some constraints:
   The frontend code (i.e. the html and js) should NOT be placed on the server.
   
   Bot type: LINE chatbot
+  
   Functions:
   -Daily update on Infection no. and respective countries, sources
-  -Able to provide updates on Hong Kong Infection cases Instantly 
-  -Auto-reply on Country's Outbound Travel Alert 
+  -Able to provide instant updates on Hong Kong Infection case  
+  -Auto-reply on Country's Outbound Travel Alert and respective actions. 
   
   Sources : Centre for Health Protection Hong Kong, Security Bureau
   
