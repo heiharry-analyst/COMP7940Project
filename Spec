@@ -1,4 +1,4 @@
-Contain a spec.md that states which bot (LINE/web) your team is doing and the design of your chatbot (100 - 1000 words)
+Contain a spec.md that states which bot (LINE/web) your team is doing and the design of your chatbot 
 
   
   Bot type: LINE chatbot
