@@ -4,10 +4,10 @@ Contain a spec.md that states which bot (LINE/web) your team is doing and the de
   Bot type: LINE chatbot
   
   Functions:
-  -Daily update on Infection no. and respective countries, sources
-  -Able to provide instant updates on Hong Kong Infection case  
+  -Allow users to update the Information or sourse on LINE, like Infection no. and respective countries, sources
+  -Able to check the instant updates on Hong Kong Infection case  
   -Auto-reply on Country's Outbound Travel Alert and respective actions. 
-  -Daily update the related news about COVID-19 in Hong Kong
+  -Daily push the related latest information about face mask/cleaning substance in Hong Kong
   
   Sources : 
   1. Centre for Health Protection Hong Kong, Security Bureau
