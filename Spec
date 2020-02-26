@@ -7,6 +7,9 @@ Contain a spec.md that states which bot (LINE/web) your team is doing and the de
   -Daily update on Infection no. and respective countries, sources
   -Able to provide instant updates on Hong Kong Infection case  
   -Auto-reply on Country's Outbound Travel Alert and respective actions. 
+  -Daily update the related news about COVID-19 in Hong Kong
   
-  Sources : Centre for Health Protection Hong Kong, Security Bureau
-  
+  Sources : 
+  1. Centre for Health Protection Hong Kong, Security Bureau
+  2. World Health Organization (WHO)
+  3. Google News
